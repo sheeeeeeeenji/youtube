@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('buigugvb'),
+        title: Text('buiguuu'),
         actions: <Widget>[Icon(Icons.add), Icon(Icons.share),],
       ),
       body: Container(
